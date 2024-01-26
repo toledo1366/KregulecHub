@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1001426845095",
+    "firebase_url": "https://kregulechubdev-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kregulechubdev",
+    "storage_bucket": "kregulechubdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001426845095:android:5273dd7f244f5a9b4a0a82",
+        "android_client_info": {
+          "package_name": "com.example.kregulec_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDwrswR1_Woxmd0xOYFcxky1zDRBOKiyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
