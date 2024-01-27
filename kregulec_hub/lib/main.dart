@@ -5,7 +5,10 @@ import 'package:kregulec_hub/firebase_options.dart';
 
 import 'core/navigation/routing.dart';
 
+
 Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   await _initializeTools();
   await _initFirebase();
 
